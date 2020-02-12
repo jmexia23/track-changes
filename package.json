@@ -33,7 +33,6 @@
     "metrics-sharelatex": "^2.2.0",
     "mongo-uri": "^0.1.2",
     "mongojs": "2.4.0",
-    "redis": "~0.10.1",
     "redis-sharelatex": "^1.0.8",
     "request": "~2.33.0",
     "requestretry": "^1.12.0",
